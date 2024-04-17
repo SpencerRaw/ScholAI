@@ -25,7 +25,7 @@ ScholAI 是一个基于 CrewAI 和 LangChain 的框架，专为自动化科研�
 首先，克隆此仓库到你的本地机器：
 
 ```bash
-git clone https://github.com/spencerraw/ScholAI.git
+git clone https://github.com/SpencerRaw/ScholAI.git
 cd ReadAI
 ```
 
@@ -63,4 +63,4 @@ python main.py
 如果你有任何问题或者建议，请通过以下方式联系我们：
 
 - 电子邮件：spencerxu79@gmail.com
-- GitHub Issues：https://github.com/spencerraw/ScholAI/issues
+- GitHub Issues：https://github.com/SpencerRaw/ScholAI/issues
